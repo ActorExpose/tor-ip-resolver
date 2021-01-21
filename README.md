@@ -21,7 +21,7 @@ A simple perl program which gather any website ip address from Tor Network.
 
 + git clone https://github.com/r3k4t/tor-ip-resolver.git
 + cd tor-ip-resolver
-+ sudo perl tor-ip-resolver.py
++ sudo perl tor-ip-resolver.pl
 
 ### Tor Network Command(Stop) ###
 
