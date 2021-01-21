@@ -1,7 +1,9 @@
 # TOR IP RESOLVER
 
 ![Screenshot from 2021-01-21 13-43-00](https://user-images.githubusercontent.com/69615463/105320769-c4627e80-5bf0-11eb-9bdd-5eb7655642e3.png)
-
+<br>
+[![Perl](https://img.shields.io/badge/Perl-5-purple.svg)](https://metacpan.org/release/perl/)
+[![OS](https://img.shields.io/badge/Tested%20On-Linux-purple.svg)](https://en.wikipedia.org/wiki/Linux)
 
 <h6>Author : RKT</h6>
 
